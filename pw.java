@@ -2,6 +2,10 @@ class pw
 {
 public void m1()
 {
-//code
+//code1
+}
+public void m2()
+{
+//code2
 }
 }
